@@ -1,2 +1,4 @@
-# hazunanafaru.github.io
-Just a personal blog
+# Husni Zuhdi
+## Just a personal blog
+
+Hopefully this will motivate me to write more
